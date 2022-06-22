@@ -7,6 +7,5 @@ function App() {
       <p className="text-gray-500 text-lg transition ease-in-out delay-150 hover:-translate-y-1 hover:bg-blue-500 hover:text-white duration-300">React and Tailwind CSS in action</p>
     </div>
   );
-    // bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300
 }
 export default App;
